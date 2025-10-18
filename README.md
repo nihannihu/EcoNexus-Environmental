@@ -40,9 +40,9 @@ EcoNexus is an interactive 3D environmental mapping platform that helps communit
    Create a `.env` file in the root directory with:
    ```
    PORT=3000
-   MAPTILER_KEY=WBYIyUNJnkBEtqMzfMOK
-   GEOAPIFY_KEY=f9fc4de949a14c169c5b721995c17b54
-   OPENWEATHER_KEY=465c63cc77ee43d692f4e8c7a0dc430a
+   MAPTILER_KEY=
+   GEOAPIFY_KEY=
+   OPENWEATHER_KEY=
    ```
 
 4. **Start the server**
@@ -173,3 +173,4 @@ MIT License - feel free to use this project for your own hackathon or developmen
 ## Support
 
 For issues or questions, please check the troubleshooting section or create an issue in the project repository.
+
